@@ -119,12 +119,6 @@ cd Techgiz-ecommerce
 npm install
 ```
 
-- Create a **.env** file at the root level of the directory (at the level of `package.json` file) and create a environment variable
-
-```sh
-REACT_APP_JWT_SECRET = <JWT_SECRET_KEY_OF_YOUR_CHOICE>
-```
-
 - Start the server 🔥
 
 ```sh
